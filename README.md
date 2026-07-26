@@ -1,19 +1,27 @@
-# 🤎 Cozy To-Do Planner
+# 🤎 To Do Planner
 
-A fully running, native Android to-do planner app designed with a warm, comforting aesthetic. It operates completely offline using local device storage—no login or internet connection required!
+> A cozy, offline-first Android to-do planner app built with Kotlin and Jetpack Compose, featuring local storage and progress analytics.
 
-## ✨ Features
-* **Offline-First Storage:** Securely saves all tasks and metrics locally on your device.
-* **Task Tracker:** Easily add, check off, and manage your daily tasks.
-* **Progress Analytics:** Visual data cards and dashboards to track your productivity over time.
-* **Cozy Aesthetic:** Designed with soft cream backgrounds and earthy brown tones to prevent visual eye strain.
+---
 
-## 🛠️ Tech Stack
-* **Language:** Kotlin
-* **UI Framework:** Jetpack Compose
-* **Local Database:** Room Database
+## 🚀 Quick Download
+Want to try the app right now on your Android device? 
+👉 **[Download the Latest APK Here](https://github.com/ayush2025-A07/To-do-planner/releases/latest/download/To-do.planner.apk)**
 
-## 📥 How to Download & Install
-1. Head over to the **Releases** section on the right side of this repository page.
-2. Download the latest `.apk` file (e.g., `cozy-planner-v1.0.0.apk`).
-3. Open the file on your Android device to install and run it locally!
+---
+
+## ✨ Release Notes (To do planner apk)
+
+Welcome to the release of **To Do Planner**! This native Android app is designed with a warm, comforting aesthetic to help you stay organized while reducing visual eye strain.
+
+* **Offline-First Storage:** Securely saves all your tasks and metrics locally on your device using a local Room Database. No internet connection or login required!
+* **Task Tracker:** Easily add, check off, and delete daily tasks through a streamlined management system.
+* **Progress & Analytics Dashboard:** Visual data cards featuring placeholder UI elements for heatmaps, donut charts, and bar charts to monitor your productivity over time.
+* **Cozy Aesthetic:** Built with a soft cream background (`#FAF3E0`) and earthy brown tones (`#5D4037` and `#8D6E63`) for a breathable, low-strain user interface.
+
+---
+
+## 📥 How to Install Manually
+1. Download the `To-do.planner.apk` file using the quick link above or from the **Releases** section on the right sidebar.
+2. Open the downloaded file on your Android device.
+3. If prompted by your phone, allow installation from unknown sources, then tap **Install** to run the app locally!
